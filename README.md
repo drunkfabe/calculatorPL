@@ -1,7 +1,5 @@
 # calculatorPL
 
-Overview
-
 The Calculator is a command-line program that evaluates arithmetic expressions and maintains a calculation history.
 
 Design Choices
